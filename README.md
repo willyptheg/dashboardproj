@@ -24,6 +24,7 @@ Challenges + WIP features:
 
 Data source:
 - https://www.kaggle.com/datasets/amaymishra11/tech-layoffs-and-hiring-trends-2026
+
 Companies shown in dataset (A-Z):
 - Adobe, Airbnb, Amazon, Anthropic, Apple, Databricks, Google, Intel, Meta, 
 Microsoft, NVIDIA, Netflix, OpenAI, Oracle, Palantir, SAP, Salesforce, 
